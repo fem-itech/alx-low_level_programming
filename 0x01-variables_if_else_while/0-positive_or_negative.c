@@ -2,9 +2,12 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * program entry point.
- * Return:0 then,no error,non zero value if error.
- **/
+ * main - Entry point
+ * 
+ * Description: 'Assign random number to n'
+ * 
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int n;

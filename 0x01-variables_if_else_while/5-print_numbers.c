@@ -3,7 +3,7 @@
 #include <time.h>
 /**
  * main - Entry of the code
- * Description: 'single digit of base 10 starting from  0'
+ * Description: 'single digit of base 10 starting 4from 0'
  * Return: Always 0 (Success)
  */
 int main(void)

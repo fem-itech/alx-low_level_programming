@@ -7,7 +7,7 @@
  * Return: Always 0 (Success)
  */
 int main(void)
- {	
+{	
 	char i;
 	char S;
 
@@ -21,4 +21,4 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
- }
+}

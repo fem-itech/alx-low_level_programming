@@ -6,13 +6,8 @@
  */
 int main(void)
 {
-	char c = 'a';
-
-	while (c <= 'z')
-	{
-	_putchar(c);
-	    c++;
-	}
-	_putchar('\n');
-	return (0);
+	char la;
+	for (la = 'a'; la <= 'z'; la++)
+		_putchar(la)
+		_putchar('\n');
 }

@@ -4,13 +4,14 @@
  * Description: 'the program to print alphabet'
  * Return: Always 0.
  */
-int main(void)
+void print_alphabet(void)
 {
-	char la;
+	char c = 'a';
 
-	for (la = 'a'; la <= 'z'; la++)
+	while (c <= 'z')
 	{
-		_putchar(la);
-		_putchar('\n');
+		_putchar(c);
+		c++;
 	}
+	_putchar('\n');
 }

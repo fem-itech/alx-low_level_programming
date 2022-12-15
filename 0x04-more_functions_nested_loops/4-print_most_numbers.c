@@ -2,7 +2,7 @@
 /**
  * print_most_numbers - print number from 0 to 9
  * @c print_most_numbers
- * Return: Number 0 up to 9
+ * Return: 0
  */
 void print_most_numbers(void)
 {

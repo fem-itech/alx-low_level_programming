@@ -6,23 +6,24 @@
  */
 void print_diagonal(int n)
 {
-	int co, sp;
 
-	if (n <= 0)
-	{
-		_putchar ('\n');
-	}
+int co, sp;
 
-	else
-	{
-	for (co = 1; co <= n; co++)
-	{
-	for (sp = 1; sp < co; sp++)
-	{
-	_putchar (' ');
-	}
-	_putchar ('\\');
-	_putchar ('\n\');
+if (n <= 0)
+{
+_putchar ('\n');
+}
+
+else
+{
+for (co = 1; co <= n; co++)
+{
+for (sp = 1; sp < co; sp++)
+{
+_putchar (' ');
+}
+_putchar ('\\');
+_putchar ('\n');
 }
 }
 }

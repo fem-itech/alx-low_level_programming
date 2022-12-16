@@ -1,8 +1,8 @@
 #include "main.h"
 /**
-* main - Entry point
-* Description: 'print_number function that prints an integer'
-* Return: Always 0 (Success)
+* print_number - print
+* @n: integer
+* Return: Always
 */
 void print_number(int n)
 {

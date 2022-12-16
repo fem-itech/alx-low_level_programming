@@ -2,7 +2,7 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Description: 'function to print triangle'
+ * Description: 'to print largest prime factor'
  * Return: Always 0 (Success)
  */
 int main(void)

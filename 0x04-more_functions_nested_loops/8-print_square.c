@@ -2,7 +2,7 @@
 /**
  * print_square - that prints a square, followed by a new line
  * @size: size and width
- * Return: print square made with '#'
+ * Return: square made with '#'
  */
 void print_square(int size)
 {

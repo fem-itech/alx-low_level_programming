@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * print_line - draws a straight line in the terminal.
+ * print_line - draws a straight line in the term
  * @n: input number
- * Return: Straight line
+ * Return: straight line
  */
 void print_line(int n)
 {

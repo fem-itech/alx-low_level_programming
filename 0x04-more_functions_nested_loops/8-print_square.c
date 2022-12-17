@@ -10,19 +10,19 @@ void print_square(int size)
 
 	if (size <= 0)
 	{
-	_putchar ('\n');
+	_putchar('\n');
 	}
 	else
 	{
 		for (co = 1; co <= size; co++)
 		{
-		_putchar ('#');
+		_putchar('#');
 
 			for (ro = 2; ro <= size; ro++)
 			{
-			_putchar ('#');
+			_putchar('#');
 			}
 		}
 	}
-	_putchar ('\n');
+	_putchar('\n');
 }

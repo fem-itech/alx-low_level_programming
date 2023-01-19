@@ -1,1 +1,1 @@
-read me for function pointer
+readme file for 0x07 function
